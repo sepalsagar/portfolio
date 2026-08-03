@@ -1,0 +1,6 @@
+.skip-link{position:fixed;z-index:20;top:8px;left:8px;padding:10px 12px;background:#171717;color:#fff;text-decoration:none;transform:translateY(-150%)}
+.skip-link:focus{transform:translateY(0)}
+a:focus-visible,button:focus-visible{outline:2px solid #0070f3;outline-offset:3px}
+.section,.contact-section{scroll-margin-top:64px}
+.button-light:hover{background:#ededed}
+@media (pointer:coarse){a,button{-webkit-tap-highlight-color:rgba(0,112,243,.18);touch-action:manipulation}}

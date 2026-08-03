@@ -9,15 +9,14 @@ To showcase practical software engineering work and skill depth, with emphasis o
 ## Featured Projects
 
 1. Cloud-Native Task Management System
-2. AI-Based Resume Screening Tool
-3. E-Commerce Backend API
-4. Real-Time Chat Application
+2. E-Commerce Backend API
+3. Real-Time Chat Application
 
 ## Structure
 
-- `index.html`: semantic page structure and content
-- `css/style.css`: visual design system and responsive layouts
-- `js/main.js`: navbar interactivity for mobile navigation
+- `src/App.jsx`: React page structure and portfolio content
+- `src/styles.css`: visual design system and responsive layouts
+- `src/main.jsx`: React entry point
 
 ## Design Goals
 

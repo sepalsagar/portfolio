@@ -1,6 +1,6 @@
 # Sepal Sagar Portfolio
 
-Professional developer portfolio website highlighting backend-focused full-stack projects, core engineering skills, and contact channels.
+React portfolio website highlighting backend-focused full-stack projects, core engineering skills, and contact channels.
 
 ## About
 
@@ -12,30 +12,32 @@ This portfolio is designed to present production-ready project work in a clean, 
 - Clean sectioned layout: Hero, About, Skills, Projects, Contact
 - Updated project cards for latest work:
   - Cloud-Native Task Management System
-  - AI-Based Resume Screening Tool
   - E-Commerce Backend API
   - Real-Time Chat Application
-- Separated frontend code:
-  - `index.html`
-  - `css/style.css`
-  - `js/main.js`
+- Component-based React interface with responsive navigation
 
 ## Tech Used
 
-- HTML5
-- CSS3
-- Vanilla JavaScript
-- Font Awesome
-- Google Fonts
+- React
+- Vite
+- CSS
 
 ## Local Run
 
-Open `index.html` directly in your browser or run with any static server.
+Install dependencies and start the Vite development server:
 
-Example with VS Code Live Server:
-1. Open project folder.
-2. Right click `index.html`.
-3. Click "Open with Live Server".
+```bash
+npm install
+npm run dev
+```
+
+To create a production build:
+
+```bash
+npm run build
+```
+
+Pushing to `main` runs the GitHub Pages workflow.
 
 ## Repository
 
