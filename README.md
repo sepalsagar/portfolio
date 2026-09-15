@@ -10,10 +10,7 @@ This portfolio is designed to present production-ready project work in a clean, 
 
 - Professional, responsive UI across desktop/mobile
 - Clean sectioned layout: Hero, About, Skills, Projects, Contact
-- Updated project cards for latest work:
-  - Cloud-Native Task Management System
-  - E-Commerce Backend API
-  - Real-Time Chat Application
+- Featured project: BizNet, a full-stack business operations and business intelligence workspace
 - Component-based React interface with responsive navigation
 
 ## Tech Used

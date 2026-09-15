@@ -8,9 +8,7 @@ To showcase practical software engineering work and skill depth, with emphasis o
 
 ## Featured Projects
 
-1. Cloud-Native Task Management System
-2. E-Commerce Backend API
-3. Real-Time Chat Application
+1. BizNet — a full-stack business operations and business intelligence workspace
 
 ## Structure
 
