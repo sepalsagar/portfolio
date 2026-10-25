@@ -6,6 +6,7 @@
     "homeDescription": "One workspace for sales, stock, customers, suppliers and pricing, with an AI assistant that answers business questions.",
     "liveUrl": "https://biznet-nine.vercel.app/",
     "githubUrl": "https://github.com/sepalsagar/BizNet",
+    "hidden": false,
     "readmeUrl": "https://raw.githubusercontent.com/sepalsagar/BizNet/main/README.md",
     "screenshots": [
       {
@@ -59,6 +60,7 @@
     "homeDescription": "Upload a PDF, ask questions in plain English, and get answers that point to the exact page they came from.",
     "liveUrl": "https://documind-zeta-fawn.vercel.app/",
     "githubUrl": "https://github.com/sepalsagar/Documind",
+    "hidden": false,
     "readmeUrl": "https://raw.githubusercontent.com/sepalsagar/Documind/main/README.md",
     "screenshots": []
   }
