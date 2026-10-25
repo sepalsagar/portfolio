@@ -3,6 +3,22 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "scripts": { "dev": "vite", "build": "vite build", "preview": "vite preview" },
-  "dependencies": { "@vitejs/plugin-react": "latest", "vite": "latest", "react": "latest", "react-dom": "latest" }
+  "scripts": {
+    "dev": "vite",
+    "sync:projects": "node scripts/sync-projects.mjs",
+    "prebuild": "npm run sync:projects",
+    "build": "vite build && node scripts/build-project-pages.mjs",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "marked": "^16.1.1",
+    "sanitize-html": "^2.17.0",
+    "sharp": "^0.34.3"
+  }
 }

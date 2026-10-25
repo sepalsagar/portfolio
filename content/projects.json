@@ -1,0 +1,65 @@
+[
+  {
+    "slug": "biznet",
+    "name": "BizNet",
+    "tagline": "Business operations and intelligence workspace.",
+    "homeDescription": "One workspace for sales, stock, customers, suppliers and pricing, with an AI assistant that answers business questions.",
+    "liveUrl": "https://biznet-nine.vercel.app/",
+    "githubUrl": "https://github.com/sepalsagar/BizNet",
+    "readmeUrl": "https://raw.githubusercontent.com/sepalsagar/BizNet/main/README.md",
+    "screenshots": [
+      {
+        "alt": "BizNet dashboard",
+        "src": "/projects/biznet/dashboard.webp",
+        "width": 1600,
+        "height": 712
+      },
+      {
+        "alt": "BizNet inventory",
+        "src": "/projects/biznet/inventory.webp",
+        "width": 1600,
+        "height": 831
+      },
+      {
+        "alt": "BizNet sales",
+        "src": "/projects/biznet/sales.webp",
+        "width": 1595,
+        "height": 855
+      },
+      {
+        "alt": "BizNet analytics",
+        "src": "/projects/biznet/analytics.webp",
+        "width": 1600,
+        "height": 694
+      },
+      {
+        "alt": "BizNet pricing simulator",
+        "src": "/projects/biznet/pricing.webp",
+        "width": 1600,
+        "height": 705
+      },
+      {
+        "alt": "BizNet AI Assistant",
+        "src": "/projects/biznet/ai-assistant.webp",
+        "width": 1600,
+        "height": 729
+      },
+      {
+        "alt": "BizNet workspace selection",
+        "src": "/projects/biznet/workspace-entry.webp",
+        "width": 1600,
+        "height": 730
+      }
+    ]
+  },
+  {
+    "slug": "documind",
+    "name": "DocuMind",
+    "tagline": "Semantic document intelligence for PDFs.",
+    "homeDescription": "Upload a PDF, ask questions in plain English, and get answers that point to the exact page they came from.",
+    "liveUrl": "https://documind-zeta-fawn.vercel.app/",
+    "githubUrl": "https://github.com/sepalsagar/Documind",
+    "readmeUrl": "https://raw.githubusercontent.com/sepalsagar/Documind/main/README.md",
+    "screenshots": []
+  }
+]
